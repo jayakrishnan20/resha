@@ -1,0 +1,364 @@
+@media (min-width: 1200px) and (max-width: 1400px) {
+.about-image img {
+  width: 130%;
+}
+
+}
+
+/* Normal desktop :992px. */
+@media only screen and (min-width: 992px) and (max-width: 1169px) {
+.row-55 {
+  margin-left: -15px;
+  margin-right: -15px;
+}
+.main-menu nav ul li + li {
+  margin-left: 25px;
+}
+.scroll-down-2 {
+  margin-left: 0;
+}
+.hero-social-1 {
+  margin-right: 0;
+}
+.hs1-control .flex-control-nav {
+  margin-left: 0;
+}
+.about-image img {
+  width: 120%;
+}
+.about-content {
+  margin-top: 25px;
+  padding-left: 15px;
+}
+.single-portfolio .content {
+  left: 35px;
+  right: 35px;
+}
+.single-portfolio .content .title {
+  font-size: 18px;
+}
+.single-funfact:nth-child(2n) {
+  border: medium none;
+}
+.start-project-wrapper .text h1 {
+  font-size: 40px;
+}
+.blog-page .blog-content {
+  margin-top: 0;
+}
+
+}
+
+/* Tablet desktop :768px. */
+@media only screen and (min-width: 768px) and (max-width: 991px) {
+.row-55 {
+  margin-left: -15px;
+  margin-right: -15px;
+}
+.header-bottom-wrapper-1 {
+  padding-bottom: 20px;
+  padding-top: 20px;
+}
+.header-bottom-wrapper-1 .logo {
+  bottom: auto;
+  padding: 44px;
+  top: -51px;
+}
+.stick .header-bottom-wrapper-1 .logo {
+  top: 0;
+}
+.header-bottom-1 .logo img {
+  width: 100px;
+}
+.header-search {
+  margin-left: 0;
+  margin-right: 50px;
+}
+.hero-slider-1 .single-slide .content, .hero-static-text  .content {
+  padding: 0 30px;
+}
+.hero-slider-1 .single-slide .content h1, .hero-static-text  .content h1 {
+  font-size: 50px;
+}
+.scroll-down-2 {
+  margin-left: 0;
+}
+.hero-social-1 {
+  margin-right: 0;
+}
+.hs1-control .flex-control-nav {
+  margin-left: 0;
+}
+.about-content {
+  margin-top: 30px;
+  padding-left: 15px;
+}
+.testimonial-slider .owl-prev {
+  left: 0;
+}
+.testimonial-slider .owl-next {
+  right: 0;
+}
+.blog-media {
+  width: 35%;
+}
+.blog-content {
+  margin-top: 20px;
+  width: 65%;
+}
+.start-project-wrapper .text h2 {
+  font-size: 22px;
+}
+.start-project-wrapper .text h1 {
+  font-size: 30px;
+}
+.start-project-wrapper .btn {
+  margin-top: 7px;
+}
+.contact-form-wrap {
+  margin-top: 50px;
+}
+.page-banner-area {
+  padding-bottom: 100px;
+  padding-top: 250px;
+}
+.blog-wrapper {
+  margin-bottom: 50px;
+}
+.blog-page .blog-content {
+  margin-top: 0;
+}
+.blog-details-wrapper {
+  margin-bottom: 50px;
+}
+
+}
+
+/* Large Mobile :480px. */
+@media only screen and (max-width: 767px) {
+.container{
+  width: 450px;
+}
+.btn {
+  padding: 15px 30px;
+}
+.row-55 {
+  margin-left: -15px;
+  margin-right: -15px;
+}
+.header-top-1 {
+  display: none;
+}
+.header-bottom-wrapper-1 {
+  padding-bottom: 20px;
+  padding-top: 20px;
+}
+.header-bottom-wrapper-1 .logo, .stick .header-bottom-wrapper-1 .logo {
+  bottom: auto;
+  padding: 23px 25px;
+  top: 0;
+}
+.header-bottom-wrapper-1 .logo img {
+  width: 70px;
+}
+.header-search {
+  margin-left: 0;
+  margin-right: 50px;
+}
+.search-form form input {
+  font-size: 24px;
+  line-height: 46px;
+}
+.height-100vh, .height-100, .height-100 .flex-viewport {
+  height: auto;
+}
+.hero-slider-1 .single-slide .content, .hero-static-text  .content {
+  margin-top: 0;
+}
+.hero-slider-1 .single-slide, .hero-static-text  .content {
+  padding: 150px 30px;
+}
+.hero-slider-1 .single-slide .content h1, .hero-static-text  .content h1 {
+  font-size: 30px;
+}
+.hero-slider-1 .single-slide .content p, .hero-static-text  .content p {
+  font-size: 14px;
+  line-height: 24px;
+  margin-bottom: 25px;
+}
+.hs1-control {
+  bottom: 80px;
+}
+.scroll-down-2 {
+  margin-left: 0;
+}
+.hero-social-1 {
+  margin-right: 0;
+}
+.hs1-control .flex-control-nav {
+  margin: 0;
+}
+.hs1-control .flex-control-nav::before, .hero-social-1::before {
+  display: none;
+}
+.scroll-down-1 {
+  bottom: 75px;
+}
+.about-image img {
+  width: 100%;
+}
+.about-content {
+  margin-top: 45px;
+  padding-left: 15px;
+}
+.portfolio-filter ul li {
+  margin: 0;
+}
+.team-tab-list li {
+  margin: 0 -35px;
+  width: 45%;
+}
+.team-tab-pane:nth-child(1) .team-details::before {
+  left: 45px;
+}
+.team-tab-pane:nth-child(3) .team-details::before {
+  right: 45px;
+}
+.single-funfact {
+  border: medium none;
+}
+.testimonial-slider {
+  padding: 0;
+}
+.testimonial-slider .owl-nav div {
+  display: none !important;
+}
+.blog-media {
+  margin-bottom: 20px;
+  padding: 0;
+  width: 100%;
+}
+.blog-content {
+  width: 100%;
+}
+.start-project-wrapper .text h1 {
+  font-size: 35px;
+}
+.start-project-wrapper .btn {
+  float: left;
+}
+.contact-about, .contact-info {
+  margin-bottom: 50px;
+}
+.page-banner-area {
+  padding-bottom: 50px;
+  padding-top: 150px;
+}
+.blog-wrapper {
+  margin-bottom: 50px;
+}
+.blog-page .blog-media {
+  width: 100%;
+}
+.blog-page .blog-content {
+  margin-top: 0;
+  width: 100%;
+}
+.blog-details-wrapper {
+  margin-bottom: 50px;
+}
+.blog-details-content {
+  padding: 50px 30px;
+}
+.blog-details-footer {
+  padding: 10px 30px;
+}
+.blog-details-footer .blog-share {
+  float: left;
+  width: 100%;
+  margin-top: 10px;
+}
+.comment-list.old {
+  margin-left: 0;
+}
+.sin-comment .content h5 {
+  float: left;
+  margin: 5px 0 0;
+  width: 100%;
+}
+.comment-form form {
+  margin-left: -15px;
+  margin-right: -15px;
+}
+.comment-form form .input-box {
+  padding-left: 15px;
+  padding-right: 15px;
+}
+.comment-form form .input-box input[type="submit"] {
+  height: 40px;
+  line-height: 42px;
+  width: 130px;
+}
+
+}
+/* small mobile :320px. */
+@media only screen and (max-width: 479px) {
+.container{
+  width: 300px;
+}
+.search-form form input {
+  font-size: 20px;
+  line-height: 40px;
+}
+.scroll-down-1 {
+  display: none;
+}
+.hero-social-1 a {
+  padding: 0 5px;
+}
+.section-title h2 {
+  font-size: 24px;
+}
+.portfolio-filter ul li {
+  margin: 0 0 5px;
+}
+.single-portfolio .content .title {
+  font-size: 14px;
+}
+.team-tab-list li {
+  width: 55%;
+}
+.start-project-wrapper .text h2 {
+  font-size: 20px;
+}
+.start-project-wrapper .text h1 {
+  font-size: 26px;
+}
+.contact-form .input-box.box-half {
+  width: 100%;
+}
+.blog-details-content {
+  padding: 30px 0;
+}
+.blog-details-content .blog-title {
+  font-size: 20px;
+}
+.blog-details-footer {
+  padding: 10px 0;
+}
+.comment-list.old {
+  margin-left: 0;
+}
+.sin-comment {
+  padding: 20px;
+}
+.sin-comment .content {
+  float: left;
+  margin-top: 20px;
+  width: 100%;
+}
+.comment-form form .input-box.box-half {
+  width: 100%;
+}
+
+}

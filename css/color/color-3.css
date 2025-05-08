@@ -1,0 +1,13 @@
+.section-title h2 span, .btn.hover-white:hover, #scrollUp, .header-top-wrapper-1 ul li a:hover, .hero-slider-1 .single-slide .content h1 span, .hero-static-text .content h1 span, .hs1-control .flex-control-nav li a.flex-active, .hero-social-1 a:hover, .hero-scroll-down:hover, .hero-scroll-down:focus, .single-service i, .portfolio-filter ul li:hover, .single-portfolio .content .icon:hover, .single-portfolio-modal .content .details li a:hover, .team-social a:hover, .testimonial-slider .owl-nav div:hover, .blog-content .post-date:hover, .blog-content h3 a:hover, .blog-content .read-more:hover, .contact-title span, .contact-info .content p a:hover, .contact-form .input-box input[type="submit"]:hover, .footer-copyright p a:hover, .page-breadcrumb li a:hover, .sidebar-tags a:hover, .sidebar-search form button:hover, .sidebar-blog .content h4:hover a, .pagination li a:hover, .blog-details-content .blog-meta a:hover, .blog-details-footer .blog-tags a:hover, .sin-comment .content h5 a {
+    color: #2196F3;
+  }
+  .btn, #scrollUp:hover, .header-bottom-wrapper-1, .portfolio-filter ul li.active, .single-portfolio .image::before, .funfact-area::before, .single-testimonial .content, .single-testimonial .content::before, .blog-media a::after, .sidebar-title::before, .sidebar-blog .image::after, .pagination li.active a, blockquote, .blog-details-footer .blog-share a:hover, .comment-wrapper h3::before, .comment-form-wrapper h3::before, .layout-btn a span, .object, .comment-form form .input-box input[type="submit"], .contact-form .input-box input[type="submit"] {
+    background-color: #2196F3;
+  }
+  .btn, .hero-scroll-down, .portfolio-filter ul li:hover, .portfolio-filter ul li.active, .testimonial-author img, .sidebar-tags a:hover, .blog-details-footer .blog-share a:hover {
+    border-color: #2196F3;
+  }
+  /* Logo Background Color Darker */
+  .header-bottom-wrapper-1 .logo {
+    background-color: #0f7acf;
+  }
